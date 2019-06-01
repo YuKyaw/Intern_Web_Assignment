@@ -1,0 +1,71 @@
+/*header*/
+header .row{
+	background-color: pink;
+}
+#index .row{
+	background: no-repeat center center;
+	background-size: cover;
+}
+#header nav{
+	background-color: transparent;
+}
+.navbar-brand{
+	font-size: 35px;
+	font-family: sans-serif;
+	color: tomato;
+}
+nav a{
+	color:tomato;
+	font-size: 20px;
+}
+#header ul{
+	float:  right;
+}
+nav a:hover{
+	color:violet;
+}
+.signup form{
+ 	margin: 30px;
+  	max-width: 300px;
+  	padding: 16px;
+}
+.border{
+	display: block;
+	margin:auto;
+	width:160px;
+	height:3px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: green;
+}
+h2{
+	text-align: center;
+	color: mediumseagreen;
+}
+p{
+	text-align: center;
+	color: purple;
+}
+img{
+	width: 100%;
+	height:auto;
+}
+#about{
+	margin-top: 5px;
+}
+#about p{
+	text-align: justify;
+	margin:5px;
+}
+#gallery{
+	margin-bottom: 20px;
+}
+footer iframe{
+	margin:0;
+	padding: 0;
+	width:100%;
+	height: 400px;
+}
+footer a{
+	text-decoration-line: none;
+}
